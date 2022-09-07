@@ -1,0 +1,15 @@
+body{
+    background-color: grey;
+}
+img{
+    height: 575px;
+    width: 675px;
+    padding-left: 100px;
+}
+div.caja1{
+    width: 600px;
+    display: flex;
+    
+    /*background-color: rgb(187, 14, 14);*/
+
+}
